@@ -1,0 +1,32 @@
+{
+  "name": "ecommerce-parallel",
+  "version": "1.0.0",
+  "description": "to practice parallel processing in ecommerce",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code2end/ecommerce-parallel.git"
+  },
+  "keywords": [
+    "async",
+    "parallel",
+    "ecommerce"
+  ],
+  "author": "code2end",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/code2end/ecommerce-parallel/issues"
+  },
+  "homepage": "https://github.com/code2end/ecommerce-parallel#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "typescript": "^5.2.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.20"
+  }
+}
